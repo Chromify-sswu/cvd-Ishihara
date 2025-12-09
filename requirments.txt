@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-numpy
-pillow
-scikit-image
-scipy
-python-multipart
